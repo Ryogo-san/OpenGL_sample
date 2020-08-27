@@ -27,3 +27,8 @@ int main(int argc,char *argv[]){
   glutMainLoop();
   return 0;
 }
+
+
+/*
+図形を描くときはglBegin()〜glEnd()の間にその図形の各頂点の座標値を設定する関数をおく
+*/

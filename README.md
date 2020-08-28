@@ -8,8 +8,8 @@ gcc (ファイル名) -lglut -lGLU -lGL
 
 ccでコンパイルしているのを見かけたが，gccでどちらでコンパイルしても問題なかった．
 
-参照元：https://tokoik.github.io/opengl/libglut.html#2.2
+参照元：https://tokoik.github.io/opengl/libglut.html
 
 ## メモ
 
-次回はラバーバンドから
+次回はアニメーションから
